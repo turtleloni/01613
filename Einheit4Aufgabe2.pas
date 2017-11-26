@@ -16,9 +16,7 @@ var
 function BlattMax ( inRefWurzel : tRefBinBaum; inPfadMax : tNatZahl) : Boolean;
   { prüft ob alle Blätter des Baumes die Maxima der Pfade zu ihnen sind }
 
-{ formatierungs issues wie letztes mal vgl kommentar einheit 3 aufgabe 4
-  screenshot der ursprünglichen eingabe:
-  https://itmages.com/image/view/6284656/5beeafb2 }
+
 
 { inRefWurzel : zu betrachtender Baum, inPfadMax : aktuelles Maximum des Pfades bis zum Blatt }
   var 
